@@ -13,4 +13,7 @@ Of particular concern was the notably low rating of in-flight Wi-Fi services, pa
 
 Example of Dash board:<br>
 ![image](https://github.com/Kanangnut/Airline-Satisfaaction-SQL/assets/130201193/6b112cbc-4468-44d2-806d-91a01270610c)
+<br>
+<br>
+![image](https://github.com/Kanangnut/Airline-Satisfaaction-SQL/assets/130201193/e75e5efa-a35e-4be4-a100-dc111ec5d745)
 
