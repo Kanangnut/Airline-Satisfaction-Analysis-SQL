@@ -12,8 +12,8 @@ The dashboard design focused on presenting key survey attributes, assessing fact
 Of particular concern was the notably low rating of in-flight Wi-Fi services, particularly among business travelers, signaling an area ripe for improvement. Through these insights, actionable strategies can be devised to enhance customer satisfaction and bridge existing gaps in service quality.
 
 Example of Dash board:<br>
-![image](https://github.com/Kanangnut/Airline-Satisfaaction-SQL/assets/130201193/6b112cbc-4468-44d2-806d-91a01270610c)
+![image](https://github.com/Kanangnut/Airline-Satisfaction-SQL/assets/130201193/0587dd22-5aa7-4a1c-aef8-5394cbecc7ff)
 <br>
 <br>
-![image](https://github.com/Kanangnut/Airline-Satisfaaction-SQL/assets/130201193/e75e5efa-a35e-4be4-a100-dc111ec5d745)
+![image](https://github.com/Kanangnut/Airline-Satisfaction-SQL/assets/130201193/31f6f4c4-91cc-4dd3-a958-8c38b3830ecb)
 
