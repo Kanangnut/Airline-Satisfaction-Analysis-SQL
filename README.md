@@ -15,5 +15,6 @@ Example of Dash board:<br>
 ![image](https://github.com/Kanangnut/Airline-Satisfaction-SQL/assets/130201193/0587dd22-5aa7-4a1c-aef8-5394cbecc7ff)
 <br>
 <br>
-![image](https://github.com/Kanangnut/Airline-Satisfaction-SQL/assets/130201193/31f6f4c4-91cc-4dd3-a958-8c38b3830ecb)
+![image](https://github.com/Kanangnut/Airline-Satisfaction-SQL/assets/130201193/8e8d13fc-bcd6-4c26-9229-21c78cdf3701)
+
 
